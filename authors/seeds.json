@@ -1,0 +1,90 @@
+[
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Mahendra Siva",
+    "image_url": "https://images.pexels.com/photos/1331395/pexels-photo-1331395.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "Mahendra@egmail.com"}
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Sarah Middleson",
+    "image_url": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "SarahM@egmail.com"
+  }
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Dr.Omala Osak",
+    "image_url": "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "OmalaOsak@egmail.com"
+  }
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Dr. Christina Wong",
+    "image_url": "https://images.pexels.com/photos/1181477/pexels-photo-1181477.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "ChristinaWong@egmail.com"
+  }
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Henry Tham",
+    "image_url": "https://images.pexels.com/photos/450214/pexels-photo-450214.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "HenryConsultant@egmail.com"
+  }
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Nathasha Love",
+    "image_url": "https://images.pexels.com/photos/3867132/pexels-photo-3867132.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "NathashaLove@egmail.com"
+  }
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Jestina Morgan",
+    "image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "JestinaMorgan@egmail.com"
+  }
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Dr. David Freeman",
+    "image_url": "https://images.pexels.com/photos/3831612/pexels-photo-3831612.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "DavidFreeman@egmail.com"
+  }
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Dr. Haslina Othman",
+    "image_url": "https://images.pexels.com/photos/19985543/pexels-photo-19985543/free-photo-of-portrait-of-a-woman-wearing-a-traditional-veil.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "HaslinaOthman@egmail.com"
+  }
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Shawn Jolie",
+    "image_url": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=8",
+    "email": "ShawnJolie@egmail.com"
+  }
+},
+{
+  "model": "authors.author",
+  "fields": {
+    "name": "Josh Harnett",
+    "image_url": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "email": "JoshHarnett@egmail.com"
+  }
+}
+
+]

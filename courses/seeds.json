@@ -1,0 +1,233 @@
+[
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Introduction to Meditation for Better Life Quality",
+            "image_url": "https://images.pexels.com/photos/668353/pexels-photo-668353.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Practicing mindfulness and meditation may help you manage stress and high blood pressure, sleep better, feel more balanced and connected and even lower your risk of heart disease.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Business Plan for Startup & Small Business",
+            "image_url": "https://images.pexels.com/photos/3184416/pexels-photo-3184416.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Step-by-Step Guidance & Automated Financials Allow You to Easily Create Your Business Plan. ",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Life Purpose Life Coach Certification",
+            "image_url": "https://images.pexels.com/photos/56832/road-asphalt-space-sky-56832.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Get in-depth understanding of the key elements of the life coaching profession. Gain the expert level knowledge of life coaching to start a rewarding career.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Business Plan for Your Business and Startup",
+            "image_url": "https://images.pexels.com/photos/1181352/pexels-photo-1181352.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Step-by-Step Guidance & Automated Financials Allow You to Easily Create Your Business Plan. ",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "User Experience Design Fundamentals",
+            "image_url": "https://images.pexels.com/photos/5053838/pexels-photo-5053838.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Learn how to apply User Experience (UX) principles to your website designs. Start today! Use XD to get a job in User Experience, User Interface, or Web design.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Fundamentals of Mindfulness and Peacefulness",
+            "image_url": "https://images.pexels.com/photos/1165991/pexels-photo-1165991.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Practicing mindfulness and meditation may help you manage stress and high blood pressure, sleep better, feel more balanced and connected and even lower your risk of heart disease.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Strategic Innovation and Execution",
+            "image_url": "https://images.pexels.com/photos/290275/pexels-photo-290275.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "An excellent program with many applicable tools made available for the participants to take back with them to implement in their own organizations",
+            "owner": 1
+        }  
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Leadership Excellence in Business Management",
+            "image_url": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Discover Leadership courses that focus on skills in hospitality management.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Introduction to Shamanic Power Animals",
+            "image_url": "https://images.pexels.com/photos/635503/pexels-photo-635503.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Connect to the Shamanic Healing and learn hoe to use sacred tools of Shamanism.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Leadership Excellence in Hospitality",
+            "image_url": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Discover Leadership courses that focus on skills in team management, decision-making, and strategic planning.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Psychology of Diversity and Unconscious Bias",
+            "image_url": "https://images.pexels.com/photos/609771/pexels-photo-609771.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Understand Stereotypes, Prejudice, and Discrimination and How to Reduce Their Influence at Work and Your Community",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "The Leadership Blueprint: Navigate Change",
+            "image_url": "https://images.pexels.com/photos/425135/pexels-photo-425135.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Discover Leadership courses that focus on skills in team management, decision-making, and strategic planning.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Shamanic Power Animals for Better Life",
+            "image_url": "https://images.pexels.com/photos/13340057/pexels-photo-13340057.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Connect to the Shamanic Healing and learn how to use sacred tools of Shamanism.",
+            "owner": 1
+        }
+    }, 
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "The Complete Foundation Stock Trading Course",
+            "image_url": "https://images.pexels.com/photos/187041/pexels-photo-187041.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Learn To Trade The Stock Market. #1 Trading course. Inc: Technical Analysis, Candlesticks, Stocks, Day Trading +++",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Introduction to Reiki Level I, II and Master",
+            "image_url": "https://images.pexels.com/photos/17064446/pexels-photo-17064446/free-photo-of-close-up-of-stacked-stones.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Learn Reiki Levels 1, 2 and Master Level to become a Certified Traditional Usui Reiki Practitioner/Instructor.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Critical Thinking Strategies For Better Decisions",
+            "image_url": "https://images.pexels.com/photos/135013/pexels-photo-135013.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Upgrade your problem solving skills and optimize business outcomes by applying the critical thinking process.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Active Listening for More Opportunities Masterclass",
+            "image_url": "https://images.pexels.com/photos/3182765/pexels-photo-3182765.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Stop Hearing; Start Listening. Transform Your Business Now.",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Psychology of Diversity and Unconscious Bias 2",
+            "image_url": "https://images.pexels.com/photos/3184433/pexels-photo-3184433.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Understand Stereotypes, Prejudice, and Discrimination and How to Reduce Their Influence at Work and Your Community",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Goal Setting Mastery Course for Your Life",
+            "image_url": "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=1200",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Define your WHY and align it to your goals & create a step by step blueprint to plan, implement & achieve your goals",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Internationally Accredited Certificate in Fitness",
+            "image_url": "https://images.pexels.com/photos/2827392/pexels-photo-2827392.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Learn how to Create Gym &amp; Bodybuilding Workouts that help boost testosterone, muscle building and/or lose weight",
+            "owner": 1
+        }
+    },
+    {
+        "model": "courses.course",
+        "fields": {
+            "title": "Life Coach for Purpose Certification",
+            "image_url": "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "link": "https://www.google.co.uk/",
+            "author": null,
+            "description": "Get in-depth understanding of the key elements of the life coaching profession. Gain the expert level knowledge of life coaching to start a rewarding career.",
+            "owner": 1
+        }
+    }
+]
