@@ -105,7 +105,7 @@ if ENV != 'DEV':
 else:
      DATABASES['default'] =  {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'lms-library', 
+        'NAME': 'lms-project-4', 
         'HOST': 'localhost',
         'PORT': 5432
     }
