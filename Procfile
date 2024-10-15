@@ -1,2 +1,3 @@
-web: python manage.py runserver 0.0.0.0:$PORT --noreload
+web: gunicorn lms_project_4.wsgi --log-file -
+
 
