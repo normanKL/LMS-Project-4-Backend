@@ -12,6 +12,7 @@ django-environ = "*"
 django-cors-headers = "*"
 python-dotenv = "*"
 django-on-heroku = "*"
+gunicorn = "*"
 
 [dev-packages]
 
